@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Talki
+GenericName=Voice Dictation
+Comment=Local voice dictation: speak anywhere, get clean text at your cursor
+Exec=talki
+Icon=audio-input-microphone
+Terminal=false
+Categories=Utility;Accessibility;AudioVideo;
+Keywords=dictation;speech;voice;whisper;transcribe;
+StartupNotify=false

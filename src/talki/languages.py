@@ -1,0 +1,25 @@
+"""Whisper language codes and display names."""
+
+LANGUAGES = {
+    "en": "English", "de": "German", "es": "Spanish", "fr": "French", "it": "Italian",
+    "pt": "Portuguese", "nl": "Dutch", "pl": "Polish", "cs": "Czech", "sk": "Slovak",
+    "sv": "Swedish", "da": "Danish", "no": "Norwegian", "nn": "Nynorsk", "fi": "Finnish",
+    "is": "Icelandic", "et": "Estonian", "lv": "Latvian", "lt": "Lithuanian", "hu": "Hungarian",
+    "ro": "Romanian", "bg": "Bulgarian", "hr": "Croatian", "sr": "Serbian", "bs": "Bosnian",
+    "sl": "Slovenian", "mk": "Macedonian", "sq": "Albanian", "el": "Greek", "tr": "Turkish",
+    "ru": "Russian", "uk": "Ukrainian", "be": "Belarusian", "ka": "Georgian", "hy": "Armenian",
+    "az": "Azerbaijani", "kk": "Kazakh", "uz": "Uzbek", "tg": "Tajik", "tk": "Turkmen",
+    "mn": "Mongolian", "ar": "Arabic", "he": "Hebrew", "fa": "Persian", "ur": "Urdu",
+    "hi": "Hindi", "bn": "Bengali", "pa": "Punjabi", "gu": "Gujarati", "mr": "Marathi",
+    "ta": "Tamil", "te": "Telugu", "kn": "Kannada", "ml": "Malayalam", "si": "Sinhala",
+    "ne": "Nepali", "as": "Assamese", "or": "Odia", "sd": "Sindhi", "ps": "Pashto",
+    "zh": "Chinese", "yue": "Cantonese", "ja": "Japanese", "ko": "Korean", "vi": "Vietnamese",
+    "th": "Thai", "lo": "Lao", "km": "Khmer", "my": "Burmese", "id": "Indonesian",
+    "ms": "Malay", "jw": "Javanese", "su": "Sundanese", "tl": "Tagalog", "mi": "Maori",
+    "haw": "Hawaiian", "sw": "Swahili", "yo": "Yoruba", "sn": "Shona", "so": "Somali",
+    "am": "Amharic", "ha": "Hausa", "ln": "Lingala", "mg": "Malagasy", "af": "Afrikaans",
+    "ca": "Catalan", "gl": "Galician", "eu": "Basque", "cy": "Welsh", "ga": "Irish",
+    "br": "Breton", "gd": "Scottish Gaelic", "lb": "Luxembourgish", "fo": "Faroese",
+    "oc": "Occitan", "la": "Latin", "mt": "Maltese", "yi": "Yiddish", "sa": "Sanskrit",
+    "bo": "Tibetan", "tt": "Tatar", "ba": "Bashkir", "ht": "Haitian Creole",
+}

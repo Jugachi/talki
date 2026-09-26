@@ -1,0 +1,2 @@
+# Lets the logged-in seat user create Talki's virtual keyboard for pasting text.
+KERNEL=="uinput", SUBSYSTEM=="misc", TAG+="uaccess", OPTIONS+="static_node=uinput"
